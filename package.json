@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'No build step specified'",
+    
     "start": "node index.js"
   },
   "keywords": [],

@@ -8,7 +8,7 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 8005;
 
-app.use(express.json());
+// app.use(express.json());
 
 
 // Serve static files from the 'uploads' directory
