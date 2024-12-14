@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "next build",
-    "start": "next start",
-    "dev": "next dev"
+    "build": "echo 'No build step specified'",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
